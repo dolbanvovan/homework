@@ -16,4 +16,5 @@
 
 # Результаты тестирования
 Тест 1
-<img width="192" height="69" alt="image" src="https://github.com/user-attachments/assets/957ee40c-1e65-48c3-8b5e-887e7176f6de" />
+
+<img width="651" height="234" alt="image" src="https://github.com/user-attachments/assets/faf6652c-db68-4a78-a517-c4177bec7826" />
